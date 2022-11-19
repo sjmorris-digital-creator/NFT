@@ -16,3 +16,4 @@ jobs:
           heroku_app_name: "YOUR APP's NAME" #Must be unique in Heroku
           heroku_email: "YOUR EMAIL"
           buildpack: "https://github.com/HashNuke/heroku-buildpack-elixir.git"
+          remote_branch: "main" 
